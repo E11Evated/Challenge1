@@ -13,7 +13,7 @@ N/A
 
 ## Usage
 
-Website made to inform customers about Horiseon and the drive customers to schedule a consultation.
+Website made to inform customers about Horiseon and to drive customers to schedule a consultation.
 
 ## Credits
 
